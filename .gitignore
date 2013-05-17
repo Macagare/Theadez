@@ -1,8 +1,6 @@
 
 .DS_Store
 
-*.xml
-
 WEB-INF/.htaccess
 
 WEB-INF/railo/version
@@ -13,27 +11,7 @@ WEB-INF/lib/.gitignore
 
 WEB-INF/lib/.project
 
-*.jar
-
-*.txt
-
-*.cfm
-
-*.cfc
-
-*.js
-
-*.log
-
 WEB-INF/lib/railo-server/context/security/cacerts
-
-*.class
-
-*.swf
-
-*.ra
-
-*.dll
 
 WEB-INF/railo/lib-hash
 
